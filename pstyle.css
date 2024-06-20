@@ -1,0 +1,62 @@
+body{
+    background-color: #e4ebf0;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header{
+    background-color: #bdd1de;
+}
+h1{
+  font: 1em sans-serif;
+  font-size:1.5rem; 
+  color: #4180ab;
+  text-align: center; 
+}
+h2{
+    font: 1em sans-serif;
+    font-size:1.5rem; 
+    color: #4180ab ;
+    text-align: center; 
+  }
+button{
+    background-color: #e4ebf0;
+    color: #4180ab;
+    padding: 20px 30px;
+    border-radius: 10px;
+    border-color: #4180ab;
+    cursor:pointer;
+    
+}
+label{
+    font: 1em sans-serif;
+    font-size:1.5rem; 
+    color: #8ab3cf ;
+    text-align: center; 
+}
+
+select{
+    background-color: #e4ebf0;
+    color: #4180ab;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border-color: #4180ab;
+    cursor:pointer;
+}
+
+textarea{
+    background-color: #e4ebf0;
+    color: #4180ab;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-color: #4180ab;
+}
+
+input{
+    background-color: #e4ebf0;
+    color: #4180ab;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border-color: #4180ab;
+}
